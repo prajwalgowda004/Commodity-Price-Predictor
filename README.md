@@ -44,9 +44,6 @@ Features
 * Input commodity details and predict prices for the next three days.
 * Visual representation of historical and predicted prices.
 
-# **Running the Web Application**
-To start the Flask app, run: python app.py
-Access the application at http://localhost:5000/.
 
 # **Usage**
 * Enter the commodity name and relevant parameters.
